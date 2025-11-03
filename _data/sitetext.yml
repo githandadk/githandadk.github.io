@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Empower Ministry Group
+    text: Empowering You for Ministry!
     button: Tell Me More
     buttonlink: "#services"
 
