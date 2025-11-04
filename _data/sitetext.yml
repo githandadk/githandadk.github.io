@@ -24,44 +24,65 @@ en: &DEFAULT_EN
       - title: "West and East Coast Camp Meetings"
         desc: "Since 2019, Empower Ministry Group has been the vehicle for the annual Korean Camp Meeting committees to effectively organize and manage the complex components of operating an event that draws nearly two thousand combined attendees from all over North America for a week-long spiritual and social programming."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Scholarships"
+        desc: "Empower Ministry Group equips foundations to direct needed support and scholarships to areas needed and underserved."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Knowledge Base"
+        desc: "To effect your organization's context relevant decisions, Empower Ministry Group commissions data generation and partners with knowledge centers to produce actionable datasets."
+        icon: fab fa-markdown
+      - title: "Ministry Portal"
+        desc: "Empower Ministry Group manages the ministry opportunities portal for your groups to promote, find, and engage with your audience and partners in your ministry effort."
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Project and Services"
+    text: "Our Past, Current, and Future Projects"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Where We've Been, Where We're Headed"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Early Vision"
+        year: "2002-2005"
+        desc: "In 2002, Empower Ministry began as a grassroots initiative founded by Julius Nam, Jonathan Park, and Robin Park.
+Its mission was to equip and train youth and young adults for church ministry, focusing especially on the Korean-American Adventist community.
+The founders launched the Empower Leadership Conference, a five- to seven-day annual event in Southern California, gathering young leaders for worship, leadership development, and ministry networking.
+These early gatherings became a spiritual training ground for emerging pastors, student leaders, and volunteers across North America."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Formal Incorporation and Expansion"
+        year: "2006-2011"
+        desc: "To strengthen its organizational foundation, Empower Ministry Group, Inc. was formally incorporated in 2006 by Chin H. Kim as a California Nonprofit Religious Corporation, building on the founders’ original mission.
+Incorporation allowed EMG to expand its administrative capacity, manage donations, and provide broader ministry oversight.
+During this period, Empower Leadership Conferences continued annually, drawing attendees from multiple states and producing a new generation of trained youth and young adult leaders."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Broader Ministry Development"
+        year: "2012-2018"
+        desc: "EMG emerged as a supporting hub for Adventist youth and ministry partnerships, providing leadership resources, retreats, and conferences.
+EMG worked jointly with the Southeastern California Conference, extending its leadership and training reach.
+In May 2018, EMG established a scholarship program for graduate students at Loma Linda University, investing in future ministry and professional leaders.
+The organization also expanded its fiscal sponsorships, partnering with ministries such as KAYAMM (Korean American Youth Adventist Missionary Movement) and other church-based initiatives to foster mission engagement and discipleship."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Mission Growth Through Empowerment"
+        year: "2019-2025"
+        desc: "In 2019, under the continued leadership of Dr. Chin H. Kim (CEO), EMG began organizing and supporting the West Coast Korean Campmeeting, an annual gathering uniting Korean-American Adventists from across North America. In 2020, EMG launched two DBAs:
+Project Mist, in partnership with Yorba Linda Church, focusing on creative ministry, worship, and digital outreach; and Free Church Resources, providing free ministry materials, seminars, and training tools to churches and ministry teams.
+In 2023, EMG launched POP Ministry (Power of Prayer Ministry) to deepen spiritual revival and intercessory prayer across congregations, emphasizing spiritual formation and the power of collective prayer.
+In 2024, EMG expanded to support the East Coast Korean Campmeeting, fostering national unity and leadership growth within the Korean Adventist community.
+EMG also continues to support international mission work in the Philippines, organizing evangelistic outreach and leadership training trips."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Expansion and Future Trajectory"
+        year: "2026-"
+        desc: "EMG is committed to continued support and growth of the ministries and partnerships cultivated for the past quarter century. With the appointment of Dr. D. David Kim to its leadership team, EMG will endeavor to broaden its impact and reach by seeking strategic partnership, by collaborating with industry leaders, by commissioning generation of necessary knowledge base, and by strengthening the infrastructural offerings to exponentially empower our clients. Thus, the Empower Ministry Group, Inc. will remain faithful to its founding purpose:
+To empower, equip, and encourage leaders and entities to serve faithfully in the community and beyond."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
