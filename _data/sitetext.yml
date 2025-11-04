@@ -95,32 +95,33 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
-  clients:
-    section: clients
+  Partners:
+    section: Partners
+    text: "Partners and Affiliates"
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Kainos Project"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+      - title: "EMPAC"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+      - title: "University"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
+      - title: "Danny Kim"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Our Leadership"
+    text: "Current Board and Consultants"
+    subtext: Our network of experts
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "D. David Kim"
+        role: "CEO/Corporate Strategy "
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -129,8 +130,8 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Chin H. Kim"
+        role: "CFO/Investments"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -139,8 +140,28 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Tim Timmerson"
+        role: "Executive Secretary/Logistics"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Jonathan Park"
+        role: "Network Consultant/SECC President"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Robin Park"
+        role: "Network Consultant/NAD APM Director"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
