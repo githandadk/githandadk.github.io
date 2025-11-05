@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Empowering You for Ministry!
+    title: Creating Possibilities
     text: Empower Ministry Group
     button: Tell Me More
     buttonlink: "#services"
@@ -122,7 +122,7 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
     people:
       - name: "D. David Kim"
         role: "CEO/Corporate Strategy "
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/ceo.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -132,7 +132,7 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
             icon: fab fa-linkedin-in
       - name: "Chin H. Kim"
         role: "CFO/Investments"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/cfo.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -142,7 +142,7 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
             icon: fab fa-linkedin-in
       - name: "Tim Timmerson"
         role: "Executive Secretary/Logistics"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -152,7 +152,7 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
             icon: fab fa-linkedin-in
       - name: "Jonathan Park"
         role: "Network Consultant/SECC President"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -162,7 +162,7 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
             icon: fab fa-linkedin-in
       - name: "Robin Park"
         role: "Network Consultant/NAD APM Director"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
