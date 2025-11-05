@@ -149,10 +149,7 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
- title: "Advisors"
-    text: "Consultants and Affliates"
-    section: team
-    people:
+ 
       - name: "Jonathan Park"
         role: "Network Consultant/SECC President"
         image: assets/img/team/jpark.jpg
