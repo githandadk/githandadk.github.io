@@ -159,7 +159,7 @@ To empower, equip, and encourage leaders and entities to serve faithfully in the
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-       - name: "Robin Park"
+      - name: "Robin Park"
         role: "Network Consultant/NAD APM Director"
         image: assets/img/team/rpark.jpg
         social:
