@@ -22,7 +22,7 @@ email      : info@EmpowerMG.org #this is also the email contact forms will go to
 description: "Empower Ministry Group"
 author     : Web Dev
 logo:     #optional, defaults to site title
-path: assets\img\clients\creative-market.jpg
+path: assets\img\clients\Artboard2.png
 height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
